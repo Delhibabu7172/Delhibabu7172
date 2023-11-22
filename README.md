@@ -1,6 +1,10 @@
 # 💫 About Me:
-ds
 
+💫 I'm a CS 23 Graduate
+✨ I’m looking to collaborate on Web Developement
+🌱 I’m currently learning Firebase
+😄 I’m interested in Web Development & App Developement
+💬 Ask me about MERN Stack
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/delhi-babu-r-520625291/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/BGMI262003) 
